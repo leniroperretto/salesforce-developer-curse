@@ -1,9 +1,11 @@
 Meu primeiro "commit" via VSCODE e Github.
 
-Esse projeto é baseado no curso da Udemy do Sr. @choudharymanish8585 de Desenvolvedor SalesForce no link https://github.com/choudharymanish8585/contact-tracing .
+- Esse projeto é baseado no curso da Udemy do Sr. @choudharymanish8585 de Desenvolvedor SalesForce no link https://github.com/choudharymanish8585/contact-tracing .
+- Aonde aprendi do Zero ao Avançado(se posso dizer assim) a realizar os desafios nele contido.
+- Digamos que para uma noção básica de uso da Plataforma e de algumas coisas de Classes, Métodos, Componentes, Triggers, Layouts, Lightning, Aura é um ótimo curso.
+- Como estou realizando a transição de carreia, ainda tenho algumas dificuldades na forma de pensar para desenvolver, ou seja, quando acompanho o professor nos desafios eu consigo realizar algumas coisas, mas quando tento realizá-las sozinho bate a insegurança de saber por onde começar. Acredito que mais algum tempo de experiência nas plataformas eu consiga me sentir mais confortável.
 
-Como ele diz no repositório dele
-
+Segundo o Manish.
 This application is part of my course "Salesforce Apex Development". Enroll now to get access to detailed explaination.
 
 The course is designed for all experience levels and covers Apex Development from basics (and I really mean it) with Lightning front-end development. The course is filled with many challenges and real-time projects to help you build that muscle memory and make you a proficient Salesforce Developer. This indeed is
